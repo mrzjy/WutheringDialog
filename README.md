@@ -1,6 +1,8 @@
 # WutheringDialog
 A simple project that extracts character conversations in Wuthering Waves game.
 
+这是一个抽取鸣潮对话语料的小项目
+
 Thanks to [Dimbreath's project](https://github.com/Dimbreath/WutheringData/tree/master).
 
 We're currently able to parse some dialogs for quests, including 3 content types: character dialogs, player options, and plot narrations.
