@@ -119,3 +119,13 @@ python extract_dialog.py \
   ]
 }
 ```
+
+## FAQs
+
+1. Interested in some game corpus?
+
+- [GenshinDialog](https://github.com/mrzjy/GenshinDialog)
+- [StarrailDialog](https://github.com/mrzjy/StarrailDialogue)
+- [ArknightsDialog](https://github.com/mrzjy/ArknightsDialog)
+- [WutheringDialog](https://github.com/mrzjy/WutheringDialog)
+- [hoyo_public_wiki_parser](https://github.com/mrzjy/hoyo_public_wiki_parser): Parse Hoyoverse public wiki data
